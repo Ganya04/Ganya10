@@ -10,4 +10,4 @@ for _ in range(int(input())):
         if coef > max_coef:
             max_coef = coef
             max_i = i
-print(max_i+1)
+    print(max_i+1)
